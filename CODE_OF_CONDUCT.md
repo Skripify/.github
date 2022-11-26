@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# Skripify Labs Code of Conduct
 
 ## Our Pledge
 
