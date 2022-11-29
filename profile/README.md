@@ -3,7 +3,7 @@ Hey there! We're Skripify Labs, and we have been making Discord bots and other p
 
 ### 🤖 Our Discord bots
 - [`Breadify`](https://github.com/Skripify/Breadify) A piece of bread that is somehow a multipurpose Discord bot.
-- `Tuneify` Coming soon!
+- [`Tuneify`](https://github.com/Skripify/Tuneify) (WIP) Your local Discord music bot.
 - [`Mailify`](https://github.com/Skripify/Mailify) Your local Discord mail bot.
 
 ### 🚀 Our Services
